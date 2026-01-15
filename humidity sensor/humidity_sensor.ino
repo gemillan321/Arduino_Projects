@@ -9,8 +9,8 @@
 DHT dht(DHTPIN, DHTTYPE);
 
 // WiFi credentials
-const char SSID[]     = "Prinsesa_Almira";
-const char PASSWORD[] = "Fcksociety2025!";
+// const char SSID[]     = ;
+// const char PASSWORD[] = ;
 
 // Cloud variables
 float Temperature;
